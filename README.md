@@ -48,7 +48,14 @@ The game uses text commands for interaction. Below are the supported commands:
 **exit**: Exits the game.
 
 
+## How to Compile
+ Use a C compiler like gcc to compile the project:
+ 
+``` gcc dungeon_game.c -o dungeon_game ```
+## How to Run
+Run the compiled executable:
 
+``` ./dungeon_gam ```
 
 ## Code Structure
 
