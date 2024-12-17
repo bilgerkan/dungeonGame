@@ -1,0 +1,10 @@
+Player
+Health:70
+Strength:15
+InventorySize:3
+InventoryCapacity:3
+Item:MagicRing
+Item:Bomb
+Item:Axe
+CurrentRoom
+Description:Burasi bir esya odasi.
