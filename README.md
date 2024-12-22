@@ -51,11 +51,11 @@ The game uses text commands for interaction. Below are the supported commands:
 ## How to Compile
  Use a C compiler like gcc to compile the project:
  
-``` gcc dungeon_game.c -o dungeon_game ```
+``` gcc b.c -o b ```
 ## How to Run
 Run the compiled executable:
 
-``` ./dungeon_gam ```
+``` ./b ```
 
 ## Code Structure
 
